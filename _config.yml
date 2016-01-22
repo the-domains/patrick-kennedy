@@ -1,0 +1,28 @@
+name: Patrick Kennedy
+favicon: null
+layout_spectrum: 0.2886564258951694
+typography_spectrum: 0.5990759995765984
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9837499691639096
+  lightness: 0.2196209034882486
+  saturation: 0.3860065792687237
+  rhythmicContrast: 0.46823915699496865
+purpose: []
